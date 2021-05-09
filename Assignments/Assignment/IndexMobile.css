@@ -1,0 +1,89 @@
+h1{
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 3.75px 8px yellowgreen;
+    color: white;
+    margin: 25px;
+    padding: 25px;
+    background-color: black;
+}
+
+h2{                
+    font-size: large;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    color: white;
+    font-weight: bolder;
+}
+
+.Navigation {
+    display: inline;
+    float: left;
+    align-items: center;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    border: 1px solid grey;
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+head{
+  background-color: black;
+    color: white;
+}
+body{
+  background-color: black;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: black;
+    color: white;
+  }
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+    background-color: black;
+    color: white;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: black;
+  }
+
+  li a:hover:not(.active) {
+    background-color: black;
+    color: white;
+  }
+
+  .active {
+	background-color: black;
+  color: #bbb;
+}

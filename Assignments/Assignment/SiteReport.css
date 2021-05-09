@@ -1,0 +1,42 @@
+.Navigation {
+    display: inline;
+    float: left;
+    align-items: center;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    border: 1px solid grey;
+    background-color: #f3f3f3;
+}
+
+.html{
+background: black;
+}
+
+.R{
+    background: red;
+}
+
+.G{
+    background: green;
+}
+
+.B{
+    background: blue;
+}
+
+h1{
+    background: darkgrey;
+}
+
+p{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+div{
+    float: left;
+    width: 75%;
+}

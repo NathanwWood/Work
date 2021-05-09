@@ -1,0 +1,38 @@
+.Navigation {
+    display: inline;
+    float: left;
+    align-items: left;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+head{
+background: black;
+}
+
+body{
+background: black;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+label{
+    color: grey;
+}
+
+button{
+    color: white;
+}
